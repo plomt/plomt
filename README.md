@@ -8,7 +8,7 @@ Bachelor of MEPhI in Applied Mathematics and Computer Science. At the moment, a 
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [pavellomtev2012@yandex.ru](mailto:pavellomtev2012@yandex.ru)
-*   🧠  I'm learning Scala, Design Patterns and Advanced Spark### Skills 
+*   🧠  I'm learning Advanced Python, Design Patterns### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
